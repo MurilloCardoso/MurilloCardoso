@@ -85,6 +85,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloCardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murillocardoso&" alt="murillocardoso" />
-</p>
+
