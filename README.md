@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Murillo Cardoso</h1>
 <h3 align="center">I'm a computer science student.</h3>
-
+<h3 align="center">🔭 Trabalho como Mobile Developer na Dopster.io.</h3>
+<h3 align="center">🌱 Estou atualmente aprendendo testes em Flutter e Kotlin</h3>
+<h3 align="center">😄 Tenho conhecimento amplo em React | Next | Dart/Flutter</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murillocardoso&label=Profile%20views&color=0e75b6&style=flat" alt="murillocardoso" /> </p>
 
 <h3 align="left">Connect with me:</h3>
