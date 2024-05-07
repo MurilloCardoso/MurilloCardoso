@@ -3,8 +3,7 @@
 <h3 >🌱 I'm a computer science student.</h3>
 <h3 >😄 I have extensive knowledge in React | Java | Kotlin | Dart/Flutter</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murillocardoso&label=Profile%20views&color=0e75b6&style=flat" alt="murillocardoso" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<div display="flex"> <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.oracle.com/br/java/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> 
@@ -23,7 +22,8 @@
   </a> 
  
 </p>
-<h3 align="left">Frameworks:</h3>
+
+<h3 align="end">Frameworks:</h3>
 <p align="left">
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -37,6 +37,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
 </p>
+
+</div>
+
 
 <h3 align="left">Databases:</h3>
 <p align="left">
